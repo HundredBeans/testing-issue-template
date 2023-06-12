@@ -1,13 +1,13 @@
 ---
 name: Epic Template
-about: Template to use to create an Epic
+about: Use this template to create an Epic
 title: ''
 labels: Epic
 assignees: ''
 
 ---
 
-Example Epic: Recommendations Insights Epic
+Example Epic: [Recommendations Insights Epic](https://github.com/nicejobinc/microservices/issues/3999)
 
 ## Problem
 
@@ -47,18 +47,18 @@ Outline the test plan for this project or portion of the project.
 
 Define integration and end-to-end test cases
 
-### Standard ToDo List:
-Implement Segment tracking (if required)
-Add feature flag (if required)
-Add Indexes for new queries (if required)
-When updating types check for usage in code base (if required)
-Contact ML group when adding new kinds or entity properties
-Ensure QA Plan(s) issue have been created (example).  Could be 1 or many issues.
+### Standard To-Do List:
+- [ ] Implement Segment tracking (if required)
+- [ ] Add feature flag (if required)
+- [ ] Add Indexes for new queries (if required)
+- [ ] When updating types check for usage in code base (if required)
+- [ ] Contact ML group when adding new kinds or entity properties
+- [ ] Ensure QA Plan(s) issue have been created ([example](https://github.com/nicejobinc/microservices/issues/4734)).  Could be 1 or many issues.
 
 
 ## Estimations
 
-Break down of the time required for each phase of the project. Include any refactor costs (ie. js to ts conversion).  Example Estimation Sheet
+Break down of the time required for each phase of the project. Include any refactor costs (ie. js to ts conversion).  [Example Estimation Sheet](https://docs.google.com/spreadsheets/d/1sLre0miucU9CGsIoae4MrIhfy5duYySTb99olCBLz1Q/edit#gid=0)
 
 
 
