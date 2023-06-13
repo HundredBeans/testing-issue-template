@@ -1,3 +1,11 @@
+---
+name: Bug report
+about: Use this template to file a bug report
+title: ''
+labels: ''
+assignees: ''
+
+---
 _TODO: Replace all TODO sections and examples with relevant notes BEFORE submitting this Bug ticket. Delete this top TODO._
 
 ## Description
